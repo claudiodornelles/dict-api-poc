@@ -1,1 +1,5 @@
 rootProject.name = 'dict-api-poc'
+
+include 'modulos:diretorio'
+include 'modulos:reivindicacao'
+include 'modulos:antifraude'
